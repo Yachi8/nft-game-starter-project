@@ -28,6 +28,8 @@
   width: 350px;
   border-radius: 10px;
   object-fit: cover;
+  max-width: 100%;
+  height:auto;
 }
 
 .character-item .name-container {
